@@ -1,0 +1,28 @@
+{
+  "name": "sia-activity-superio",
+  "version": "1.0.0",
+  "description": "Classroom activity",
+  "keywords": [
+    "sia",
+    "activity",
+    "sy26-27"
+  ],
+  "homepage": "https://github.com/anthonysuperio4/activity_sia#readme",
+  "bugs": {
+    "url": "https://github.com/anthonysuperio4/activity_sia/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonysuperio4/activity_sia.git"
+  },
+  "license": "ISC",
+  "author": "Superio, Anthony C",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
